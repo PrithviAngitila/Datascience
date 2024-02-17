@@ -1,0 +1,13 @@
+# Python bytecode files
+__pycache__/
+
+# macOS system files
+.DSstore
+
+# Jupyter notebooks
+*.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Add more specific patterns if needed
